@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Email Template For CF7 Email Add on
- * Plugin URI: 
+ * Plugin URI: https://github.com/pandya-parth/custom-email-template-for-cf7-email-add-on/tree/master/plugin/custom-template-cf7-email-add-on
  * Description: Contact Form 7 Email Add on plugin provides the responsive Email templates to admin and users.
  * Version: 1.0
  * Author: KrishaWeb
